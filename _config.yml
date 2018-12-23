@@ -2,7 +2,7 @@
 title:              Joanne Son
 bio:                'A designer and project manager seeking to make an impact for social good'
 
-#logo:               'assets/img/Logo_Test.png'
+logo:               'assets/img/Logo.png'
 #background:         'assets/img/main_background.jpg'
 #tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
