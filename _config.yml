@@ -2,7 +2,7 @@
 title:              Joanne Son
 bio:                'A designer and project manager seeking to make an impact for social good'
 
-logo:               'assets/img/Logo.png'
+logo:               'assets/img/logo.jpg'
 #background:         'assets/img/main_background.jpg'
 #tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -39,12 +39,12 @@ sass:
 #bing-verify:
 email:             joannegaeunson@gmail.com
 #twitter:            username
-facebook:           joannesonshine
-#github-url:         joannegaeunson
+#facebook:           joannesonshine
+github-url:         joannegaeunson
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          joannegaeunson
 #xing:              username
-instagram:          joannesonshine
+#instagram:          joannesonshine
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
