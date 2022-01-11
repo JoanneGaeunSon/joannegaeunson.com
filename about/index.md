@@ -8,8 +8,8 @@ comments: false
     
 ## About Me
 
-Hi! I Joanne, a current senior at UCSD, studying Cognitive Science with a 
-specialization in Human Computer Interaction.
+Hi! I'm Joanne! I have a degree in Cognitive Science with a 
+specialization in Human Computer Interaction from the University of California at San Diego, and am currently working as a Information Management Specialist at the US Department of State in Washington DC.
 
 I have always had a passion for social good, and have loved volunteering at 
 various non profits and community centers since I was young. 
